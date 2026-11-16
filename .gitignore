@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Local Vector DB & Generated Maps
+forensic_rag_db/
+forensic_knowledge_db/
+forensic_output/
+temp_*.jpg
+*.csv
+
+# Dataset & Test Images
+dataset/
+dp.jpg
+test*.jpg
